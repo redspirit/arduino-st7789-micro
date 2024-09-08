@@ -1,6 +1,8 @@
 # arduino-st7789-micro
 Launching the st7789 display without dependencies
 
+![Test display](test-display.png)
+
 Это простой код без зависимостей и сторонних библиотек (кроме SPI.h) который работает с дисплееями на базе ST7789.  
 Список команд инициализации взят из библиотеки https://github.com/cbm80amiga/Arduino_ST7789_Fast
 
